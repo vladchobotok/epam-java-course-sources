@@ -1,0 +1,29 @@
+
+9
+	part2.txt,9\9\99646b8e2603ced0ec78bd68e5f78591746a6b93
+@
+part2_sorted.txt,2\5\25044bedd28cf1058cf1575c9da115513d7306a9
+i
+9src/main/java/com/epam/rd/java/basic/practice4/Part5.java,6\6\66bf8c710fd3a3706a99319c56627c3abfe83c1b
+i
+9src/main/java/com/epam/rd/java/basic/practice4/Part6.java,a\3\a375a4c2141da70966a8cd6216e649110fa533f5
+9
+	part4.txt,4\f\4f86d4d346bfe70f3560325dee2ad0675cebc9ba
+9
+	part6.txt,7\5\7542a9b280d2cb345b32d45800c639a63c60576e
+i
+9src/main/java/com/epam/rd/java/basic/practice4/Part3.java,1\b\1bb246a1f8b3c2c46480385e6b02b84cd0641679
+9
+	part3.txt,4\1\411f4830b9ec6db2ef203d6eac3fc0badcd74b56
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+9
+	part1.txt,7\b\7be848738ab8dce2fb0e4e8b71f837b774912ce6
+i
+9src/main/java/com/epam/rd/java/basic/practice4/Part4.java,4\3\4356c94c22333256e741c4213a69af045758c1a2
+i
+9src/main/java/com/epam/rd/java/basic/practice4/Part1.java,9\1\910242f320528ab3592ad448c7f97ea914546487
+h
+8src/main/java/com/epam/rd/java/basic/practice4/Demo.java,d\f\df19a8e5a7eecc5ea323f4e382730c0ff0973309
+i
+9src/main/java/com/epam/rd/java/basic/practice4/Part2.java,2\9\292b3e174e283e92652f5522efb0ee75507b7d17

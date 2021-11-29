@@ -1,0 +1,21 @@
+
+i
+9src/main/java/com/epam/rd/java/basic/practice5/Part2.java,c\f\cf6bf1e33cbf235deeb54a4b731e141d8bb0b31a
+i
+9src/main/java/com/epam/rd/java/basic/practice5/Part3.java,f\f\ffbfa67549492d109cbbede31e287af7ebd3c7cd
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+9
+	part5.txt,1\2\12f4fe21b501804c4d45aec5501872fe586dff8a
+9
+	part4.txt,4\f\4f86d4d346bfe70f3560325dee2ad0675cebc9ba
+i
+9src/main/java/com/epam/rd/java/basic/practice5/Part5.java,e\3\e30d9f44779892c9824645eb4f06d0e3430127a8
+h
+8src/main/java/com/epam/rd/java/basic/practice5/Spam.java,5\c\5c9fe002805536a10c48bd97a366a7481ea50ebf
+h
+8src/main/java/com/epam/rd/java/basic/practice5/Demo.java,a\2\a2c24f8d45a212091e0132655d7622d3ffd4bdc1
+i
+9src/main/java/com/epam/rd/java/basic/practice5/Part1.java,c\6\c6383dc85e576aa0268129e48d0f2c858912bf14
+i
+9src/main/java/com/epam/rd/java/basic/practice5/Part4.java,e\0\e073581c334835371252a49259bf78c870544bff

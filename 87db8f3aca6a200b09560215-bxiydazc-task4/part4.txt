@@ -1,0 +1,3 @@
+Предложение — это синтаксическая единица, которая выражает законченную мысль.
+Может быть простым или сложным. He studies biology and math.
+They are waiting for you in the office.

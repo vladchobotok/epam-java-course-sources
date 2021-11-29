@@ -1,0 +1,21 @@
+
+o
+?src/main/java/com/epam/rd/java/basic/practice6/part2/Part2.java,8\9\89c1c99244e25bab5810ced0f58e96b4910c4c73
+n
+>src/main/java/com/epam/rd/java/basic/practice6/part1/Word.java,4\5\453264e0ab0cd6db761723429a33fdef2cabaca6
+w
+Gsrc/main/java/com/epam/rd/java/basic/practice6/part1/WordContainer.java,8\0\803a95680d388fb0dbd855f2be7e4ae07f613fc2
+o
+?src/main/java/com/epam/rd/java/basic/practice6/part1/Part1.java,4\6\46db8c422c87ca2225f7dc15e1210bd0ad5818c6
+o
+?src/main/java/com/epam/rd/java/basic/practice6/part5/Part5.java,3\b\3b96ac1b04ade5fdcb5f1c776a7b0db91bb4360e
+n
+>src/main/java/com/epam/rd/java/basic/practice6/part5/Tree.java,3\9\39ee7ff2196ba33b355c51a2a4bf8f2531f37284
+s
+Csrc/test/java/com/epam/rd/java/basic/practice6/part6/Part6Test.java,f\d\fd0b2b7936f50721d97f01f0b82c46c7a66a5bc0
+u
+Esrc/test/java/com/epam/rd/java/basic/practice6/part3/ParkingTest.java,5\d\5d5fbade84bfc6e84c7eded983b87513427570e0
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+r
+Bsrc/test/java/com/epam/rd/java/basic/practice6/part5/TreeTest.java,5\6\562da9c962f35f6bf65797ef40111fc974752ae6
